@@ -1,12 +1,12 @@
 {
-  "name": "contactbook",
+  "name": "contactbook-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "Tran Nhan",
+  "author": "B2017064_TranTrongNhan",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
